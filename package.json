@@ -7,8 +7,6 @@
 	"scripts": {
 		"test": "npx jest",
 		"build": "tsc",
-		"lint": "npx eslint . --ext .ts",
-		"lint-fix": "npx eslint . --ext .ts --fix",
 		"format": "npx prettier --write \"src/**/*.ts\"",
 		"prepare": "npm run format && npm run lint-fix && npm run build && npm test",
 		"preversion": "npm run lint"
