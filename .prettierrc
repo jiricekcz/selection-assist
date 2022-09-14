@@ -3,5 +3,14 @@
     "trailingComma": "es5",
     "tabWidth": 4,
     "semi": true,
-    "singleQuote": false
+    "singleQuote": false,
+    "bracketSpacing": false,
+    "arrowParens": "avoid",
+    "bracketSameLine": true,
+    "editorconfig": false,
+    "embeddedLanguageFormatting": "auto",
+    "endOfLine": "crlf",
+    "htmlWhitespaceSensitivity": "ignore",
+    "proseWrap": "preserve",
+    "quoteProps": "as-needed"
 }

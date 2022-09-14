@@ -1,1 +1,2 @@
-# typescript-npm-module
+# Selection Assist
+A simple typscript library to help with selection of elements from a dataset based on a set of criteria. Expected to be used in UIs where the user can select a subset of a dataset, while their choices need to be validated against a set of rules.
