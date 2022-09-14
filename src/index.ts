@@ -1,5 +1,3 @@
-namespace SelectionAssist {
-
-}
+namespace SelectionAssist {}
 
 export default SelectionAssist;
